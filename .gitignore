@@ -1,0 +1,4 @@
+*.swp
+HelloWorld/HelloWorld/__pycache__
+HelloWorld/HelloWorldApp/__pycache__
+HelloWorld/HelloWorldApp/migrations/__pycache__
